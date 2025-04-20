@@ -7,3 +7,4 @@ def f(person):
     return person["name"] + "is" + person["Age"] + "old"
 people.sort(key=f)
 print(people)
+send
